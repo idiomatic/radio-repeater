@@ -1,0 +1,11 @@
+{
+    "dependencies": {
+        "iced-coffee-script": "^108.0.8",
+        "icy": "^2.0.0",
+        "koa": "^1.0.0",
+        "koa-route": "^2.4.2"
+    },
+    "scripts": {
+        "start": "iced repeater.iced http://prem1.di.fm/progressive?$DIFM_KEY\\#/di-progressive http://212.7.196.96:8000/\\#/pure-progressive"
+    }
+}
